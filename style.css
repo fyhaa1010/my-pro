@@ -1,0 +1,10 @@
+.os{
+    background-color: brown;
+    color: beige;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+.fyha p::first-letter{
+    font-size: 5em;
+}
